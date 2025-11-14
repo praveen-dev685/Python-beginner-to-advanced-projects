@@ -19,6 +19,5 @@ while True:
     else:
         print("Your Choice : ",value)
         print("Computer    : ",data)
-        print("type :",type( data),type(value))
         print("Try Agaiin !!!")
         
